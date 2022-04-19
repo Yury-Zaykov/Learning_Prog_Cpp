@@ -139,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Задачи.cpp" />
-    <ClCompile Include="Урок №1 %28Обзор типов%29.cpp" />
-    <ClCompile Include="Урок №2 (Контейнеры).cpp" />
-    <ClCompile Include="Урок №3 %28ключевое слово const%29.cpp" />
-    <ClCompile Include="Урок №4 %28словарь - map%29.cpp" />
+    <ClCompile Include="Tasks.cpp" />
+    <ClCompile Include="Lesson №1.cpp" />
+    <ClCompile Include="Lesson №2 %28containers%29.cpp" />
+    <ClCompile Include="Lesson №3 %28const%29.cpp" />
+    <ClCompile Include="Lesson №4 %28map%29.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

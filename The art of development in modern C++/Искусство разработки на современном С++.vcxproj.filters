@@ -15,19 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Урок №1 %28Обзор типов%29.cpp">
+    <ClCompile Include="Lesson №1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Урок №2 (Контейнеры).cpp">
+    <ClCompile Include="Lesson №2 %28containers%29.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Задачи.cpp">
+    <ClCompile Include="Tasks.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Урок №3 %28ключевое слово const%29.cpp">
+    <ClCompile Include="Lesson №3 %28const%29.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Урок №4 %28словарь - map%29.cpp">
+    <ClCompile Include="Lesson №4 %28map%29.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Programming on C++", "Programming on C++\Programming on C++.vcxproj", "{A8626005-40E9-44E9-97E1-159D9D404A1E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Искусство разработки на современном С++", "Искусство разработки на современном С++\Искусство разработки на современном С++.vcxproj", "{28B4367E-2E42-484C-BFB2-C2D311B21A5F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Искусство разработки на современном С++", "The art of development in modern C++\Искусство разработки на современном С++.vcxproj", "{28B4367E-2E42-484C-BFB2-C2D311B21A5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
