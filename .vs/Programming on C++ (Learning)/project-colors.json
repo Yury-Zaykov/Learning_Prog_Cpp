@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "a8626005-40e9-44e9-97e1-159d9d404a1e": {
+      "ProjectGuid": "a8626005-40e9-44e9-97e1-159d9d404a1e",
+      "DisplayName": "Programming on C++",
+      "ColorIndex": 0
+    },
+    "28b4367e-2e42-484c-bfb2-c2d311b21a5f": {
+      "ProjectGuid": "28b4367e-2e42-484c-bfb2-c2d311b21a5f",
+      "DisplayName": "Искусство разработки на современном С++",
+      "ColorIndex": 1
+    },
+    "a7a2a36c-3c53-4ccb-b52e-425623e2dda5": {
+      "ProjectGuid": "a7a2a36c-3c53-4ccb-b52e-425623e2dda5",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
